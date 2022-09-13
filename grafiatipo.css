@@ -1,0 +1,21 @@
+h1 {
+    font-family: Helvetica;
+    font-weight: bold;
+    text-align: left;
+    background: rgba(0, 0, 0, 0.2);
+}
+
+p {
+    color: rgba(0, 0, 0, 1);
+    font-family: Verdana, Arial, Helvetica, Sans-Serif, "Myriad Pro";
+    font-size: 16px;
+    font-weight: normal;
+    text-align: left;
+    line-height: 16px;
+    text-decoration: none;
+    text-transform: lowercase;
+    letter-spacing: none;
+    word-spacing: 20px;
+    /*text-shadow: 1px 1px 1px rgba(233, 15, 15, 0.9);*/
+}
+

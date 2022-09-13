@@ -1,0 +1,199 @@
+div{
+    background-color: #000000;
+    background: url(fotos/aluminio.jpg);
+  background-attachment: fixed;
+ 
+}
+.body {
+    background: rgba(188, 190, 216, 1);
+
+        /*background: url(http://nontenxeito.net/geoartivismos/wp-content/uploads/2015/09/particles.png);
+   
+        background-attachment: s;
+    
+        /*background: url(fotos/cielonoche.png);
+        background: no-repeat;
+        background: url(http://nontenxeito.net/geoartivismos/wp-content/uploads/2015/09/particles.png); - rgba(188, 190, 216, 1);*/
+    
+}
+.titulo{
+    background-color: rgba(141, 151, 164, 0.5);
+}
+.titulo2{
+    background-color: rgba(141, 151, 164, 0.2);
+}
+.titulo3{
+    background-color: rgba(141, 151, 164, 0.2);
+}
+.titulo4{
+    background-color: rgba(141, 151, 164, 0.2);
+}
+.titulo5{
+    background-color: rgba(141, 151, 164, 0.2);
+}
+.titulo6{
+    background-color: rgba(141, 151, 164, 0.5);
+}
+.titulo7{
+    /*width: 100%;
+    height: 0%;*/
+    margin: 0% 0%;
+    padding: 0%;
+    border: 5px solid rgba(141, 151, 164, 0.9);
+    /*display: inline-block;*/
+    background-color: rgba(141, 151, 164, 0.5);
+}
+p {
+    margin:1px;
+    padding:10px;
+    border:10px;
+    color:rgb(0, 0, 0);
+}
+img favicon {
+    
+}
+
+
+h1 {
+    font-size:36px;
+    color: rgba(0, 0, 0, );
+}
+
+h2 {
+    font-size:26px;
+    color:#141313;
+}
+
+h4 {
+    text-align: center;
+    font-size:24px;
+    color:#000000;
+}
+p strong {
+    font-size:18px;
+    color:#3f0cca;
+    }
+p {
+    font-size:16px;
+    color:#000000;
+}
+a strong {
+    font-size:18px;
+    color:#1b7541;
+    }
+
+
+/*}
+img src {
+    image-orientation:100%;
+}*/
+
+    /*Página Web de prueba*/
+    /*class=>"importante" {"importante"*/
+        .caja {
+            width: 500px;
+            height: 300px;
+            /*background: rgb(247, 0, 255);*/
+                            
+            position: footer;
+            top: 0%;
+            right: 0%;
+            bottom: 0%;
+            left: 0;
+            margin: auto;    
+        
+            background: rgb(0, 0, 0) url(https://autotras.com/images/951/mercedes-c-class-w204-new.jpg);
+            background-repeat: no-repeat;
+            /*background-position: center center;*/
+            background-size: cover;
+        
+             animation: slider 8s infinite alternate;
+        }   
+        
+        @keyframes slider{
+            from { 
+                background-size: 500px;
+                background-position: left center;
+        }
+        
+            to {
+                background-size: 500px;
+                background-position: right center;
+        
+         }
+        }
+
+        .caja1 {
+            width: 900px;
+            height: 150px;
+            /*background: rgb(247, 0, 255);*/
+                            
+            position: footer;
+            top: 0%;
+            right: 0%;
+            bottom: 0%;
+            left: 0;
+            margin: auto;    
+        
+            background: rgba(255, 255, 255, 0) url(https://autotras.com/images/951/mercedes-c-class-w204-specification.jpg);
+            background-repeat: no-repeat;
+            /*background-position: center center;*/
+            background-size: cover;
+        
+             animation: slider 8s infinite alternate;
+        }   
+        
+        @keyframes slider{
+            from { 
+                background-size: 1000px;
+                background-position: left center;
+        }
+        
+            to {
+                background-size: 605px;
+                background-position: right center;
+        
+         }
+        } 
+
+        
+
+        .caja-2 {
+            width: 500px;
+            height: 300px;
+            /*background: rgb(247, 0, 255);*/
+                            
+            position: footer;
+            top: 0%;
+            right: 0%;
+            bottom: 0%;
+            left: 0;
+            margin: auto;    
+        
+            background: rgb(0, 0, 0) url(https://i.pinimg.com/originals/58/ee/18/58ee180b44312056e9b411982d02f157.gif);
+            background-repeat: no-repeat;
+            /*background-position: center center;*/
+            background-size: contain;
+        
+             animation: slider 8s infinite alternate;
+        }   
+        
+        @keyframes slider{
+            from { 
+                background-size: 300px;
+                background-position: left center;
+        }
+        
+            to {
+                background-size: 305px;
+                background-position: right center;
+        
+         }
+        }
+
+textarea {
+   background-color: rgba(0, 0, 0, 0.2);
+   height: 70px;
+   width: 50%;
+
+}        

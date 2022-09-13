@@ -1,0 +1,34 @@
+h1 {
+    color:aqua;
+}
+
+h2 {
+    display: none;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: rgba(131, 126, 126);
+    padding: 50px;
+    border: 5px rgba(218, 40, 194, 1) solid;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+    color: #000000;
+    display: block;
+    text-align: center;
+}
+
+img {
+   display: inline-block;
+   position: center;
+   left: 40px;
+}
+

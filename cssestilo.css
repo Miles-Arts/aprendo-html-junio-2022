@@ -1,0 +1,56 @@
+body {
+    background-color: #CCC;
+}
+
+h1, h2 {
+   font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+
+h1 {
+    font-size: 3em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+li:first-child{
+    font-size: 2em;
+}
+
+ul#lista > li {
+    font-weight: bold;
+}
+
+.letra:first-letter {
+    font-size: 2em;
+}
+
+.linea::first-line {
+    font-size: 3em;
+}
+
+a[title] {
+    font-weight: bold;
+}
+
+a[title=Buscador] {
+    color: green;
+}
+
+a[title="Página del curso"] {
+    color: red;
+}
+
+a[id|=top] {
+    background-color: yellow;
+}
+
+a[title~=del] {
+    color: green;
+}

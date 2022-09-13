@@ -1,0 +1,17 @@
+#block1 {
+    background-color: blue;
+    height: 150px;
+    width: 150px;
+}
+
+#block1 .block {
+    height: 75px;
+    width: 75px;
+    background-color: yellow;
+}
+
+.block {
+    height: 150px;
+    width: 150px;
+    background-color: yellow;
+}
